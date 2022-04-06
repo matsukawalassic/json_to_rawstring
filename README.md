@@ -43,3 +43,7 @@ node index.js example.json
 # LICENSE
 
 MIT
+
+# History
+
+2022/04/06
